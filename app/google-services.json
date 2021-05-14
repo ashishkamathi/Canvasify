@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1662196821",
+    "project_id": "canvasify-8adf8",
+    "storage_bucket": "canvasify-8adf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1662196821:android:120ed8330bd16221aec8dc",
+        "android_client_info": {
+          "package_name": "com.canvasify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1662196821-ug6hfbi6n0qf2lhd8tf5gptg4387sdq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.canvasify",
+            "certificate_hash": "5de8df919e0c6be95e59654e7ff8aeec08692744"
+          }
+        },
+        {
+          "client_id": "1662196821-17kauoga5buf58epslka6v4bi66u07bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDduy4Ly2XQDZUwHdcmGIgpq1-pRtf317M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1662196821-17kauoga5buf58epslka6v4bi66u07bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
